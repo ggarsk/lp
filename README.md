@@ -1,8 +1,12 @@
 Hello, world!
 
-Este é apenas um repo remoto onde pretendo subir alguns exercícios/projetos por conta sobre lógica de programação. O objetivo é respirar lógica de programação e martelar o assunto na cabeça até eu me sentir satisfeito com meu nível de conhecimento (atualmente próximo de zero).
+Este é apenas um repo onde pretendo subir alguns exercícios/projetos sobre lógica de programação.
 
-A linguagem de programação que vou usar para fazê-lo é o JavaScript, linguagem que julgo ser a que eu mediocremente entendo melhor e a que tive/tenho mais contato, portanto, a "mais fácil" para que eu aprenda lp.
+Meu objetivo aqui para os próximos 21 dias (duração das aulas que estou vendo e que podem se prolongar mais) é martelar o assunto na cabeça até que eu me sinta satisfeito com meu nível de conhecimento (atualmente próximo de zero).
 
-Aproveito esse espaço para explicar algo que expliquei (esteticamente falando, de forma porca) no index.html desse repo (o único que pretendo trazer, por enquanto): não pretendo esquentar muito, por agora, com estética ou construção de páginas neste repositório. Meu foco está PRINCIPALMENTE em lógica de programação, que não envolve cores nem imagens, mas apenas código e sinapses cerebrais.
+Aviso de antemão que não pretendo, por enquanto, focar em estilização e construção de páginas, mas APENAS em lógica de programação.
+
+A linguagem que escolhi para tanto é JavaScript por julgar ser capaz de entender melhor e, portanto, praticar sem mais barreiras. 
+
+Meu foco está PRINCIPALMENTE em apenas código e sinapses cerebrais, por enquanto.
 Dito isso, vamos lá.
