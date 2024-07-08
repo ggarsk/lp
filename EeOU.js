@@ -31,7 +31,7 @@ let b = 10
 */
 
 /* OUTROS OPERADORES LÓGICOS
-NÃO (NOT) - Representado por ! - Este operador inverte o valor de uma expressão booleana. Se o valor for true, se tornará false e vice-versa
+NOT - Representado por ! - Este operador inverte o valor de uma expressão booleana. Se o valor for true, se tornará false e vice-versa
 Ex:
 a = true
 b = false
