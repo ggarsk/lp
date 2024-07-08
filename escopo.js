@@ -33,6 +33,8 @@ const: Para valores que não mudarão durante a execução do algoritmo. É idea
 let: Para valores que podem ou irão mudar durante a execução do algoritmo.
 Ambas as declarações respeitam o escopo de bloco. Ou seja, não podem ser acessadas de fora do bloco onde foram declaradas, como vimos na linha 21 a 23 :)
 
+Por outro lado, let e const declarados no escopo global (fora de qualquer bloco, no "body" mesmo) podem ser acessados dentro de escopos menores.
+
 Uma explicação adicional e importante é que objetos e arrays declarados como const podem ter seus valores internos alterados livremente, mesmo que a referência ao objeto ou array em si não possa ser reatribuída.
 
 
